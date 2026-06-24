@@ -42,6 +42,9 @@ export default defineConfig({
   markdown: {
     breaks: true,
   },
+  sitemap: {
+    hostname: "https://teyvatimpact.top",
+  },
   vite: {
     server: {
       host: "0.0.0.0",
