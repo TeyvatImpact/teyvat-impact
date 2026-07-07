@@ -2,7 +2,7 @@
 
 > > [!IMPORTANT] 注意
 > 本文将在日后进行更加可视化的更新
-> 建议您直接浏览可视化线路图 [可视化线路图](https://tr.teyvatimpact.top)
+> 建议您直接浏览可视化线路图 [可视化线路图](https://railways.teyvatimpact.top)
 
 ---
 

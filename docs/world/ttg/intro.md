@@ -6,7 +6,7 @@
 
 详细线路请见 [线路](lines.md)
 
-建议您直接浏览可视化线路图 [可视化线路图](https://tr.teyvatimpact.top)
+建议您直接浏览可视化线路图 [可视化线路图](https://railways.teyvatimpact.top)
 
 ### 提瓦特交通集团
 
